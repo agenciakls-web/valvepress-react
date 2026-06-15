@@ -12,7 +12,7 @@ export default function Rodape() {
   return (
     <>
       <footer className="bg-blue-900  py-2 md:py-8 overflow-hidden">
-        <a href={ContentLinks.whatsapp} target="_blank">
+        <a href="https://wa.me/5521978160550?text=Ol%C3%A1!%20Tenho%20interesse%20em%20v%C3%A1lvulas%20e%20equipamentos%20industriais.%20Pode%20me%20enviar%20mais%20detalhes?" target="_blank">
           <button className="flex fixed w-14 h-14 bottom-5 right-[30px] bg-green-500 rounded-full justify-center items-center  shadow-xl shadow-zinc-400 z-20;">
             <FontAwesomeIcon icon={faWhatsapp} className="text-white w-9 h-9 text-3xl" />
           </button>
